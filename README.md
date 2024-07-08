@@ -20,7 +20,7 @@
 </div>
 
 
-##Estatísticas GitHub
+## Estatísticas GitHub
 <div>
 <a href="https://github.com/devaldonas">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaldonas&layout=compact&langs_count=7&theme=dracula"/>
@@ -28,5 +28,5 @@
 </div>
 
 
-
+## 	💻 :computer: 	💻 :computer: 	💻 :computer:
 ![technology-art](https://github.com/devaldonas/devaldonas/assets/148506497/de76aaed-dfac-4190-a038-8066d03a915b)
