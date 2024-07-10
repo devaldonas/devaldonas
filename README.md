@@ -4,8 +4,8 @@
 
 - 🔭 Atualmente estou trabalhando como Analista de Qualidade em uma indústria de alimentos, área que atuo há 16 anos,
 - 🌱 Estou aprendendo Programação para utilizar minha experiência na área de alimentos, 
-- 👯 para desenvolver um Sistema Automadizado de Chão de Fábrica
-- 🚀 :rocket: e migrar de vez para a área de Tecnologia e Analises de Dados.
+- 💻 para desenvolver um Sistema Automatizado de Chão de Fábrica
+- 🚀 e migrar de vez para a área de Tecnologia e Analises de Dados.
 
   ## Tecnologias e Ferramentas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>      
