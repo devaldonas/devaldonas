@@ -2,10 +2,9 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-- 🔭 Trabalhando na indústria a 20 anos, entendi todo o processo produtivo.
-- 🌱 Estou aprendendo Programação para utilizar minha experiência na área de alimentos, 
-- 💻 para desenvolver um Sistema Automatizado de Chão de Fábrica
-- 🚀 e migrar de vez para a área de Tecnologia e Analises de Dados.
+- 🔭 Trabalhando na indústria por 20 anos, entendi todo o processo produtivo. Atuando em diversos setores, pude acompanhar cada passo necessário para que o produto acabado chegue ao consumidor final.
+- 🌱 Iniciei meus estudos em programação em 2022, e atualmente cursando Engenharia de Software,
+- 💻 para desenvolver um Sistema Automatizado que integre e otimize todos os setores de uma empresa.
 
   ## Tecnologias e Ferramentas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>      
@@ -30,4 +29,5 @@
 
 ## 	💻 :computer: 	💻 :computer: 	💻 :computer:
 ![technology-art](https://github.com/devaldonas/devaldonas/assets/148506497/de76aaed-dfac-4190-a038-8066d03a915b)
+
 
