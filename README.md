@@ -9,7 +9,7 @@
   ## Tecnologias e Ferramentas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />                        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>      
+  <img src="https://www.flaticon.com/br/icone-gratis/github_733609" width="40" height="40"/>      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>                                       <img src="https://it.miami.edu/_assets/images/O365_Power_BI.png" width="40" height="40"/>
          
           
@@ -29,5 +29,6 @@
 
 ## 	💻 :computer: 	💻 :computer: 	💻 :computer:
 ![technology-art](https://github.com/devaldonas/devaldonas/assets/148506497/de76aaed-dfac-4190-a038-8066d03a915b)
+
 
 
