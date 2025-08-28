@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-- 🔭 Atualmente estou trabalhando como Analista de Qualidade em uma indústria de alimentos, área que atuo há 16 anos,
+- 🔭 Trabalhando na indústria a 20 anos, entendi todo o processo produtivo.
 - 🌱 Estou aprendendo Programação para utilizar minha experiência na área de alimentos, 
 - 💻 para desenvolver um Sistema Automatizado de Chão de Fábrica
 - 🚀 e migrar de vez para a área de Tecnologia e Analises de Dados.
@@ -30,3 +30,4 @@
 
 ## 	💻 :computer: 	💻 :computer: 	💻 :computer:
 ![technology-art](https://github.com/devaldonas/devaldonas/assets/148506497/de76aaed-dfac-4190-a038-8066d03a915b)
+
