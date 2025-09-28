@@ -15,6 +15,7 @@
 ## 📫 Como entrar em contato comigo:
 <div>
 <a href="https://www.linkedin.com/in/devaldo-nascimento-263b81105" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://wa.me/5511989114927" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
 
@@ -28,6 +29,7 @@
 
 ## 	💻 :computer: 	💻 :computer: 	💻 :computer:
 ![technology-art](https://github.com/devaldonas/devaldonas/assets/148506497/de76aaed-dfac-4190-a038-8066d03a915b)
+
 
 
 
