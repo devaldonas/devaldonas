@@ -7,14 +7,15 @@
 - 💻 para desenvolver um Sistema Automatizado que integre e otimize todos os setores de uma empresa.
 
   ## Tecnologias e Ferramentas
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/600/c-programming.png" width="40" height="40"/>
+  <img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png"  width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/330px-HTML5_logo_and_wordmark.svg.png"  width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
   <img src="https://it.miami.edu/_assets/images/O365_Power_BI.png" width="40" height="40"/>
-  <img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png"  width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/330px-HTML5_logo_and_wordmark.svg.png"  width="40" height="40"/>
   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/600/c-programming.png" width="40" height="40"/>
+ 
           
 ## 📫 Como entrar em contato comigo:
 <div>
@@ -33,6 +34,7 @@
 
 ## 	💻 :computer: 	💻 :computer: 	💻 :computer:
 ![technology-art](https://github.com/devaldonas/devaldonas/assets/148506497/de76aaed-dfac-4190-a038-8066d03a915b)
+
 
 
 
