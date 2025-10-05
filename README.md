@@ -14,8 +14,7 @@
   <img src="https://i0.wp.com/datamodel.com/wp-content/uploads/2025/05/ssms_21.png?fit=512%2C512&quality=80&ssl=1" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
-  <img src="https://it.miami.edu/_assets/images/O365_Power_BI.png" width="40" height="40"/>
-  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png" width="40" height="40"/>
+   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png" width="40" height="40"/>
  
           
 ## 📫 Como entrar em contato comigo:
@@ -35,6 +34,7 @@
 
 ## 	💻 :computer: 	💻 :computer: 	💻 :computer:
 ![technology-art](https://github.com/devaldonas/devaldonas/assets/148506497/de76aaed-dfac-4190-a038-8066d03a915b)
+
 
 
 
