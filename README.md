@@ -83,10 +83,17 @@ Organizei **todos os meus certificados** da DIO.me em um repositório estruturad
 
 <div align="center">
   <a href="https://github.com/devaldonas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaldonas&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devaldonas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaldonas&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devaldonas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devaldonas&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
 
 ---
 
@@ -110,3 +117,40 @@ Organizei **todos os meus certificados** da DIO.me em um repositório estruturad
 ---
 
 ## 🎯 Minha Jornada
+┌─────────────────────────────────────────────────────────────┐
+│ │
+│ 2002 ─────────────────────────────────────────────────► 2026
+│ │ │
+│ ├── 20 anos na indústria (Qualidade · PCP · Comercial) │
+│ │ │
+│ ├── 2022 ── Início dos estudos em programação │
+│ │ │
+│ ├── 2023 ── Bootcamp iFood - Programação do Zero │
+│ │ │
+│ ├── 2024 ── 177+ horas em certificações │
+│ │ │
+│ ├── 2025 ── Início da Graduação em Eng. de Software │
+│ │ │
+│ └── 2026 ── 2 projetos completos publicados │
+│ │
+│ 🎯 Próximo destino: Desenvolvedor Full Stack │
+│ │
+└─────────────────────────────────────────────────────────────┘
+
+---
+
+## 💬 Frase que me define
+
+> *"Minha experiência na indústria me ensinou a enxergar o processo como um todo. Agora estou unindo isso à tecnologia para criar soluções que realmente resolvam problemas."*
+
+---
+
+## 👀 Visitantes
+
+<div align="center">
+  <img src="https://visit-counter.vercel.app/api?username=devaldonas&style=flat-square&color=blue" alt="Contador de visitantes">
+</div>
+
+---
+
+**📅 Última atualização:** Abril/2026
