@@ -148,7 +148,7 @@ Organizei **todos os meus certificados** da DIO.me em um repositório estruturad
 ## 👀 Visitantes
 
 <div align="center">
-  <img src="https://visit-counter.vercel.app/api?username=devaldonas&style=flat-square&color=blue" alt="Contador de visitantes">
+  <img src="https://komarev.com/ghpvc/?username=devaldonas&color=blue&style=flat-square&label=Visitantes" alt="Contador de visitantes" />
 </div>
 
 ---
